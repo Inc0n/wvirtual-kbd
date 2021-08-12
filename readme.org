@@ -1,0 +1,5 @@
+
+* xvirtual-kbd
+  virtual keyboard cmd utility for wayland
+* Check this issue for some detail 
+  https://github.com/swaywm/sway/issues/1779
